@@ -1,0 +1,13 @@
+body {
+    background-color: peachpuff;
+    text-align: center;
+}
+
+.login_div {
+    text-align: center;
+}
+
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
